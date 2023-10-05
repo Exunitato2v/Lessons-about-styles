@@ -1,0 +1,32 @@
+.box{
+display: block;
+width: 100px;
+height: 100px;
+background-color: rgb(255, 0, 0);
+}
+
+.orangered_box{
+display: block;
+width: 100px;
+height: 100px;
+background-color: orangered;
+}
+
+.purple_circle{
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border: 1px;
+    border-radius: 50%;
+    }
+
+    .red_circle_w_blue_border{
+        display: block;
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        border: 10px solid;
+        border-radius: 50%;
+        border-color: blue;
+        }
